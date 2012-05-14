@@ -2,4 +2,4 @@
 
 Colors hide complexity.
 
-![screenshot](http://f.cl.ly/items/1R2T0G1X3n2p1P3m272C/Screen%20Shot%202012-05-14%20at%2011.39.37%20AM.png "simplecolor")
+![screenshot](http://f.cl.ly/items/2M0z3p0f1J1J1X0E1m3G/Screen%20Shot%202012-05-14%20at%2011.42.35%20AM.png "simplecolor")
